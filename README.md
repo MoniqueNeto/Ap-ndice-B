@@ -1,2 +1,2 @@
-# Ap-ndice-B
-Diagrama de Casos de Uso
+# Apêndice
+Apêndice B - Diagrama de Casos de Uso
